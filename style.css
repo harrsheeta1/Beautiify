@@ -178,7 +178,7 @@ body {
 
 .dark-mode {
     background-color: #222;
-    color: #eee;
+    color: red;
     background-image: url(./assets/images/dbg4.jpg);
 }
 
